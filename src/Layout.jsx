@@ -10,7 +10,7 @@ function Layout() {
   const [loading, setLoading] = useState(true);
 
   const bgStyle = {
-    backgroundImage: "url('/src/assets/bg.jpg')",
+    backgroundImage: "url('/src/assets/bgs.avif')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundAttachment: 'fixed',
