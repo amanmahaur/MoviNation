@@ -10,11 +10,11 @@ function Layout() {
   const [loading, setLoading] = useState(true);
 
   const bgStyle = {
-    backgroundImage: "url('/src/assets/bgs.avif')",
+    backgroundImage: "url('https://img.freepik.com/premium-photo/purple-watercolor-background_3590-12.jpg')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundAttachment: 'fixed',
-    backgroundColor: 'rgba(0, 0, 0, 0.5)'
+    backgroundColor: 'rgb(0, 0, 0)'
   };
 
   useEffect(() => {
