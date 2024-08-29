@@ -10,7 +10,7 @@ function Layout() {
   const [loading, setLoading] = useState(true);
 
   const bgStyle = {
-    backgroundImage: "url('https://img.freepik.com/premium-photo/purple-watercolor-background_3590-12.jpg')",
+    backgroundImage: "url('https://png.pngtree.com/background/20210717/original/pngtree-fun-purple-abstract-doodle-background-picture-image_1433919.jpg')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundAttachment: 'fixed',
