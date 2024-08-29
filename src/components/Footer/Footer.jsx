@@ -3,7 +3,7 @@ import React from "react";
 import { Link, NavLink } from "react-router-dom"
 function Footer() {
     return (
-        <footer className="shadow sticky z-50 bottom-0 bg-gray-500 bg-opacity-30 backdrop-blur-md ">
+        <footer className="shadow  z-50 bottom-0 bg-gray-500 bg-opacity-30 backdrop-blur-md ">
             <div className="mx-auto w-full max-w-screen-xl p-4 py-2 lg:py-2">
                 
                 <div className="md:flex block items-center justify-between sm:flex sm:items-center sm:justify-between">
